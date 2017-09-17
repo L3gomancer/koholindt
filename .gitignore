@@ -1,3 +1,10 @@
+
+
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# this was ActionScripts ignore
 # Build and Release Folders
 bin/
 bin-debug/
